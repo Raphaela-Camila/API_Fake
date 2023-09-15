@@ -1,0 +1,49 @@
+@charset "UTF-08";
+
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.botao1{
+    color: white;
+    
+}
+
+.botao2{
+    color: white;
+}
+.botao3{
+    color: white;
+}
+.botao4{
+    color: white;
+}
+.botao5{
+    color: white;
+}
+#img1{
+    height: 450px;
+    width: 450px;
+}
+#img2{
+    height: 450px;
+    width: 450px;
+}
+#img3{
+    height: 450px;
+    width: 450px;
+}
+#img4{
+    height: 450px;
+    width: 450px;
+}
+#img5{
+    height: 450px;
+    width: 450px;
+}
+.sol{
+    background-color: aliceblue;
+}
